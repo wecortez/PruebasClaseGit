@@ -1,0 +1,11 @@
+ls: listrar todos los archivos de mi directorio actual
+cd: Cambiar de directorio cd "Carpeta"
+mkdir: Crea carpetas mkdir "nombrecarpeta"
+touch: para crear archivo touch "nombre.txt"
+nano: editar archivo nano "nombre.txt" y escribir lo que necesitamos
+mv: mover de lugar/cambiar de nombre "nombre.txt" "nombreNuevo.txt"
+cp: copiar arhivo cp2 "archivo" carpeta/
+grep: busca dentro del archivo grep "buscar" "nombre.txt"
+hist: ver cache
+limpiar terminar
+
